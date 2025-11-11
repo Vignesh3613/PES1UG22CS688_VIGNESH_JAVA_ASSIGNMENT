@@ -109,3 +109,12 @@ ORDER BY
 Server Response: {"success":true,"message":"Webhook processed successfully"}
 ```
 
+## 📎 Deliverables
+
+- **GitHub Repository:**  
+  [https://github.com/Vignesh3613/PES1UG22CS688_VIGNESH_JAVA_ASSIGNMENT.git](https://github.com/Vignesh3613/PES1UG22CS688_VIGNESH_JAVA_ASSIGNMENT.git)
+
+- **Raw JAR Download Link:**  
+  [https://raw.githubusercontent.com/Vignesh3613/PES1UG22CS688_VIGNESH_JAVA_ASSIGNMENT/main/bajaj-1.0.0.jar](https://raw.githubusercontent.com/Vignesh3613/PES1UG22CS688_VIGNESH_JAVA_ASSIGNMENT/main/bajaj-1.0.0.jar)
+
+
